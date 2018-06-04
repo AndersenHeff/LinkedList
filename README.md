@@ -4,6 +4,8 @@ grow and shrink. Each node contains a link to the next node in the list. The las
 null link (i.e. head->node->node-> ... -> node -> null.) Feel free to create useful helper methods
 (like getLastNode().) Also, many of these methods work well with while() loops. They can also be
 written recursively. Writing them both ways is a good exercise.
+
+
 1. Create a Node class that has two instance variables, a Node variable named node that
 contains a reference to the next node in the list and an int named data that contains the data
 stored in the node. The node should be initialized to null and the data should be initialized
